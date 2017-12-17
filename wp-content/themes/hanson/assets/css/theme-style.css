@@ -3083,3 +3083,6 @@ a.elementor-button:hover {
 .chart-addon .chart .percent:after {
   content: '%';
 }
+.page-head .page-head-title {
+    color: #e62b45;
+}
